@@ -1,0 +1,64 @@
+{
+  "farmingItemList": [
+    {
+      "name": "나뭇가지 덤불",
+      "num": 1,
+      "tooltip": "나뭇가지 툴팁",
+      "dialog": "나뭇가지 대화",
+      "itemVec": {
+        "x": 0.0,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "끈",
+      "num": 2,
+      "tooltip": "끈 툴팁",
+      "dialog": "끈 대화",
+      "itemVec": {
+        "x": 5.0,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "나뭇잎 덤불",
+      "num": 3,
+      "tooltip": "나뭇잎 툴팁",
+      "dialog": "나뭇잎 대화",
+      "itemVec": {
+        "x": -5.0,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "솥뚜껑",
+      "num": 4,
+      "tooltip": "솥뚜껑 툴팁",
+      "dialog": "솥뚜껑 대화",
+      "itemVec": {
+        "x": 5.0,
+        "y": 5.0
+      }
+    },
+    {
+      "name": "도끼",
+      "num": 5,
+      "tooltip": "도끼 툴팁",
+      "dialog": "도끼 대화",
+      "itemVec": {
+        "x": 30.0,
+        "y": 0.0
+      }
+    },
+    {
+      "name": "백정 칼",
+      "num": 6,
+      "tooltip": "백정 칼 툴팁",
+      "dialog": "백정 칼 대화",
+      "itemVec": {
+        "x": 30.0,
+        "y": -15.0
+      }
+    }
+  ]
+}

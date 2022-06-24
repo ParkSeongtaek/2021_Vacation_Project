@@ -1,0 +1,154 @@
+{
+    "dialogList": [
+        {
+            "narationDialog": "칼을 가지고 돌아가니 김 씨는 준영을 대신해 음식을 나르고 있었다.",
+            "characterFileName": "X"
+        },
+        {
+            "character": "김 씨",
+            "characterDialog": "성준영이, 왜 이렇게 늦어~?!"
+        },
+        {
+            "character": "성준영",
+            "characterDialog": "김 씨 아저씨도 참, 이 날씨에 움직이는 게 어디 쉬운줄 아세요?"
+        },
+        {
+            "character": "김 씨",
+            "characterDialog": "음식 나르는 일에 비하면 그런 건 식은 죽 먹기 아니겄냐."
+        },
+        {
+            "character": "성준영",
+            "characterDialog": "아니 그건 원래 제가 하고 있던 거잖아요!"
+        },
+        {
+            "narationDialog": "준영이 잡아놓은 돼지 옆에 식칼을 내려놓으려던 찰나,"
+        },
+        {
+            "narationDialog": "쿠구구궁…",
+            "actionKeyword": "Shaking"
+        },
+        {
+            "character": "손님",
+            "characterDialog": "어이구 깜짝아!"
+        },
+        {
+            "narationDialog": "술기운이 적잖이 오른 듯 벌건 얼굴의 손님의 적삼이 온통 젖었다. "
+        },
+        {
+            "narationDialog": "방금 전의 지진으로 마시려던 탁주를 온통 쏟은 모양이다."
+        },
+        {
+            "character": "주모",
+            "characterDialog": "아이고 이게 뭔 일이래.."
+        },
+        {
+            "characterDialog": "에그머니나, 거그 죄다 쏟아버렸디야!"
+        },
+        {
+            "characterDialog": "마시지두 못혔는데 어떡헌담. 한 잔 더 가져다 드려유?"
+        },
+        {
+            "narationDialog": "백 씨는 흐트러진 옷매무새를 정리하며 넉살 좋게 술을 한 잔 더 팔아냈다."
+        },
+        {
+            "character": "김 씨",
+            "characterDialog": "나라가 정말루다가 망하려구 이러는게지..."
+        },
+        {
+            "narationDialog": "익숙하다는 모습이다."
+        },
+        {
+            "character": "성준영",
+            "characterDialog": "이제는 엔간해서는 놀라지두 않고 말예요."
+        },
+        {
+            "character": "김 씨",
+            "characterDialog": "밤에는 매일같이 별똥별이 떨어지고 말이야."
+        },
+        {
+            "character": "주모",
+            "characterDialog": "왜, 그런 소문두 있잖어."
+        },
+        {
+            "characterDialog": "이르케 땅이 흔들리는 건 오랑캐 놈들이 대군을 이끌고 오구 있어서라구!"
+        },
+        {
+            "characterDialog": "밤마다 들리는 바람 소리두 사실은 그 놈들이 자기들 위치를 확인하려\n부는 피리 소리라나."
+        },
+        {
+            "character": "성준영",
+            "characterDialog": "에이, 암만 그래두 설마 전쟁이 나겠어유?"
+        },
+        {
+            "character": "김 씨",
+            "characterDialog": "전쟁은 아녀두, 듣도 보도 못한 기이한 일이 벌어지겄지..."
+        },
+        {
+            "narationDialog": "준영은 웃으며 고개를 내저었지만 마음 속 근심은 어쩔 도리가 없었다."
+        },
+        {
+            "narationDialog": "만일 무슨 일이 벌어진다면 몸을 가누는 것조차 힘들어하는\n제 어미를 저 혼자서 잘 보필할 수 있을지 확신이 서지 않았다."
+        },
+        {
+            "character": "???",
+            "characterDialog": "큼큼….",
+            "characterFileName": "이순"
+        },
+        {
+            "narationDialog": "아웅다웅 대화를 나누는 세 사람 사이로 헛기침 소리가 떨어진다."
+        },
+        {
+            "character": "???",
+            "characterDialog": "잘 먹었소."
+        },
+        {
+            "character": "김 씨",
+            "characterDialog": "아이구, 이 난리통에 용케 식사를 다 잡수셨네"
+        },
+        {
+            "narationDialog": "의문의 남성이 품 속에서 엽전 꾸러미를 꺼내더니, 그 중 몇 개를 빼내어\n주모에게 건낸다."
+        },
+        {
+            "narationDialog": "엽전을 건네는 손 끝은 단 한 번도 험한 일을 한 적이 없는 것 마냥 희고 고왔다."
+        },
+        {
+            "character": "주모",
+            "characterDialog": "그러고 보니 이 동네에서는 처음 보는 얼굴인데, 어디서 오셨나?"
+        },
+        {
+            "characterDialog": "옷도 보통 고급 비단이 아닌 것 같구..."
+        },
+        {
+            "character": "???",
+            "characterDialog": "한양에서 왔소.",
+            "characterFileName": "김옥혜"
+        },
+        {
+            "characterDialog": "그러니 처음 봤을 수 밖에 없지 않겠나."
+        },
+        {
+            "narationDialog": "여인의 대답은 냉랭했다."
+        },
+        {
+            "narationDialog": "의문의 남녀 한 쌍은 그렇게 주막을 떠났다.",
+            "characterFileName": "X"
+        },
+        {
+            "character": "주모",
+            "characterDialog": "저 저, 차가운 거 보더라고."
+        },
+        {
+            "characterDialog": "한양 사람들은 냉기가 뚝뚝 떨어진다니까."
+        },
+        {
+            "narationDialog": "투덜거리는 주모를 뒤로 한 채, 준영은 저 멀리 사라져가는 그들의 뒷모습을\n바라봤다."
+        },
+        {
+            "character": "성준영",
+            "characterDialog": "(이전에 장원 급제를 했다던 건넛집 나으리를 만났을 때에도 이런 기운이 \n느껴졌었지…)"
+        },
+        {
+            "characterDialog": "(아무래도 보통 사람은 아닌 것 같네...)"
+        }
+    ]
+}

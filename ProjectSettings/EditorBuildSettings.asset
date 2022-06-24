@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 53932fc682f074545945c70fc03b8f22
+  - enabled: 1
+    path: Assets/Scenes/Miju/NovelScene.unity
+    guid: 90d595502d3bb874b81d9f2c6e5daa3a
+  - enabled: 1
+    path: Assets/Scenes/Hyunsu/FarmingScene.unity
+    guid: 7fbbea8159db2644d9c95a73b9f4222e
+  - enabled: 1
+    path: Assets/Scenes/DY/game_1.unity
+    guid: 60c407c4bad8e074b993e414cd98fc2e
+  - enabled: 1
+    path: Assets/Scenes/DY/game_2.unity
+    guid: 2d336a980725b8847a6b13590b67dcfa
+  - enabled: 1
+    path: Assets/Scenes/Jihyun/game_3.unity
+    guid: 5186a1a3b7a90f84eb4b9262dd1d5350
+  - enabled: 1
+    path: Assets/Scenes/Miju/farmingmode.unity
+    guid: 6c03013cfb052a047a4ed7bab250f489
+  - enabled: 1
+    path: Assets/Scenes/DY/TestScene.unity
+    guid: 93dd263e5ed0577479c6198801ab7579
+  m_configObjects: {}

@@ -1,0 +1,32 @@
+{
+    "craftedItemList": [
+      {
+        "name": "craftedItem",
+        "num": 0,
+        "tooltip": "test craft tooltip",
+        "dialog": "test craft dialog",
+        "matItemList": []
+      },
+      {
+        "name": "삿갓",
+        "num": 111,
+        "tooltip": "삿갓 툴팁",
+        "dialog": "삿갓 대화",
+        "matItemList": [
+          1,
+          2
+        ]
+      },
+      {
+        "name": "우산",
+        "num": 112,
+        "tooltip": "삿갓 툴팁",
+        "dialog": "삿갓 대화",
+        "matItemList": [
+          1,
+          2,
+          3
+        ]
+      }
+    ]
+}
