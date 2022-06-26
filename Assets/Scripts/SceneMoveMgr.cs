@@ -26,16 +26,7 @@ public class SceneMoveMgr : MonoBehaviour
             Destroy(gameObject);
         }
     }
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+   
     public int nextindex;
     public string nextnovel;
     // 파밍 모드로 들어가게 해주는 버튼
@@ -53,6 +44,8 @@ public class SceneMoveMgr : MonoBehaviour
 
     public void LoadScene(SceneName scene)
     {
-        LoadScene((int)scene);
+        SaveLoadMgr.instance.saveData.nowScene = scene;
+        SaveLoadMgr.instance.AutoSaveData();
+        SceneManager.LoadScene((int)scene);
     }
 }

@@ -1,10 +1,8 @@
 {
     "ownedItemList": [
-        2,
-        4,
-        3
+        6
     ],
     "usedItemList": [],
-    "nextNovel": "prologue2",
-    "nowScene": 2
+    "nextNovel": "찐 prologue2",
+    "nowScene": 1
 }

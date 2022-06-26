@@ -48,4 +48,4 @@
 40	김 씨	5	이 눔아 어른들 얘기하는데 어디 끼어들어! 끼어들기는..!	48
 100	none	5	그렇게 말하곤 김 씨는 준영이의 머리를 한 대 쥐어박았다	49
 40	김 씨	5	여기서 농땡이나 피우지 말고 가서 칼이나 얼른 가져와라.	50
-999	none	0	FarmingScene	prologue2
+999	none	0	FarmingScene	찐 prologue2

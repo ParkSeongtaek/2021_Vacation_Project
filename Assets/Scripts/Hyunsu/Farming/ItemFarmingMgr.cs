@@ -17,6 +17,8 @@ public class ItemFarmingMgr : MonoBehaviour
     public Camera cam;
     RaycastHit2D hit;
     public GameObject touchedObj;
+    Dictionary<int, bool> IsMoveScene;
+
 
     JsonMgr json;
     public int thisNum;
@@ -32,8 +34,10 @@ public class ItemFarmingMgr : MonoBehaviour
 
         itemList = worldInvenMgr.farmingItemList;
         // 파밍해야 하는 아이템들 생성
+        
         farmingItemInit();
 
+       
 
     }
 
@@ -82,8 +86,32 @@ public class ItemFarmingMgr : MonoBehaviour
         }
         
     }
+    public bool CustomEndsWith(string a, string b)
+    {
+        int ap = a.Length - 1;
+        int bp = b.Length - 1;
+
+
+
+        while (ap >= 0 && bp >= 0 && a[ap] == b[bp])
+        {
+            ap--;
+            bp--;
+        }
+
+        return (bp < 0);
+    }
+
+    
     public void farmingItemInit()
     {
+        Debug.Log("진입");
+        for (int p = 0; p < SaveLoadMgr.instance.saveData.nextNovel.Length; p++)
+        {
+            Debug.Log(SaveLoadMgr.instance.saveData.nextNovel[p]);
+            Debug.Log((int)SaveLoadMgr.instance.saveData.nextNovel[p]);
+
+        }
         for (int i = 0; i < itemList.Count; i++)
         {
             bool isContain = false;
@@ -106,12 +134,34 @@ public class ItemFarmingMgr : MonoBehaviour
             }
             if (!isContain && !isUsed)
             {
-                // 아이템 파밍장소에 생성
-                GameObject obj = Instantiate(prefabs);
-                obj.transform.position = itemList[i].itemVec;
-                obj.GetComponent<SpriteRenderer>().sprite = Resources.Load<Sprite>("Hyunsu/Item/" + itemList[i].name);
 
-                itemList[i].aimObj = obj;
+
+
+                for (int p = 0; p < itemList[i].NextNovel.Length; p++)
+                {
+                    Debug.Log(itemList[i].NextNovel[p]);
+                    Debug.Log((int)itemList[i].NextNovel[p]);
+
+                }
+
+
+                if (SaveLoadMgr.instance.saveData.nextNovel==itemList[i].NextNovel) {
+                    Debug.Log("아이템 생성생성");
+
+                    GameObject obj = Instantiate(prefabs);
+                    obj.GetComponent<SpriteRenderer>().sprite = Resources.Load<Sprite>("Hyunsu/Item/" + itemList[i].name);
+                    obj.transform.localScale = itemList[i].itemSize;
+                    Destroy(obj.transform.GetComponent<BoxCollider2D>());
+                    obj.AddComponent<BoxCollider2D>();
+                    if(itemList[i].num == 5)
+                    {
+                        obj.AddComponent<SceneMoveItem>();
+                    }
+                    obj.transform.Rotate(itemList[i].itemRotate);
+                    obj.transform.position = itemList[i].itemVec;
+                  
+                    itemList[i].aimObj = obj;
+                }
             }
         }
     }

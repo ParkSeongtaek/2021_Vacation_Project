@@ -17,6 +17,21 @@ public class SaveDataClass
         nowScene = SceneName.NovelScene;
         ownedItemList = new List<int>();
         usedItemList = new List<int>();
-        nextNovel = "prologue1";
+        nextNovel = "찐 prologue1";
+
     }
+    public bool FindOwnedItem(int itemidx)
+    {
+        bool have = false;
+        Debug.Log("ownedItemList을 찾아보자");
+
+        for (int i = 0; i < ownedItemList.Count && !have; i++)
+        {
+            Debug.Log("ownedItemList" + i + "=" + ownedItemList[i]);
+            if (ownedItemList[i] == itemidx)
+                have = true;
+        }
+        return have;
+    }
+
 }

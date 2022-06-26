@@ -24,14 +24,25 @@ public class PlaceMover : MonoBehaviour
 
     private void Start()
     {
+
+
         cam.transform.position = new Vector3(0f, 0f, -10f);
+        /*
         indoor.SetActive(true);
         current.text = "성준영 집 안";
         outdoor.SetActive(false);
         street.SetActive(false);
         inn.SetActive(false);
         innStorage.SetActive(false);
+        */
+
+        StartLocation(SaveLoadMgr.instance.saveData.nextNovel);
+
+        
     }
+
+
+
     public void IndoorToOutdoor()
     {
         current.text = "성준영 집 밖";
@@ -66,6 +77,7 @@ public class PlaceMover : MonoBehaviour
         cam.transform.position = new Vector3(0f, -15f, -10f);
         street.SetActive(false);
         inn.SetActive(true);
+       
     }
     public void InnToStreet()
     {
@@ -87,5 +99,33 @@ public class PlaceMover : MonoBehaviour
         cam.transform.position = new Vector3(0f, -15f, -10f);
         innStorage.SetActive(false);
         inn.SetActive(true);
+        if (SaveLoadMgr.instance.saveData.nextNovel == "찐 prologue2")
+        {
+            inn.transform.GetChild(0).gameObject.SetActive(false);
+
+            if (SaveLoadMgr.instance.saveData.FindOwnedItem(6))
+            {
+                SceneMoveMgr.instance.LoadScene(1);
+            }
+        }
     }
+
+
+    void StartLocation(string Scene)
+    {
+        if (Scene == "찐 prologue2")
+        {
+            StorageToInn();
+        }
+        else if(Scene == "prologue3\r")
+        {
+            current.text = "부엌";
+            cam.transform.position = new Vector3(60f, -15f, -10f);
+
+        }
+
+    }
+
+    
+
 }

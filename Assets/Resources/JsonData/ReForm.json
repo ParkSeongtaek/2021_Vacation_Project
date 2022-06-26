@@ -1,0 +1,2677 @@
+{
+   "TransformList":[
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"짹짹짹짹",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면/새소리"
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"으음…음….",
+         "backG":"준영 집 내부",
+         "charimg":"x",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"…….",
+         "backG":"",
+         "charimg":"x",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아오 시끄러…",
+         "backG":"",
+         "charimg":"x",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"집밖에서 까치들이 텃세라도 부리는지 새소리가 요란했다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"……..",
+         "backG":"",
+         "charimg":"x",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"얼마나 잔 겨..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"전날만 해도 찌뿌둥했던 몸이 개운했다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"주위를 둘러보자 그 전날의 기억들이 선명하게 떠올랐다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아주머니..그….어저께는 죄송했어유…",
+         "backG":"주막",
+         "charimg":"성준영",
+         "sound":"회상-흑백 필터"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"지가 정신이 없어가지구..이게…",
+         "backG":"",
+         "charimg":"",
+         "sound":"회상-흑백 필터"
+      },
+      {
+         "chapter":"",
+         "Name":"주모",
+         "sentence":"",
+         "Dialogue_think":"아휴 됐다 됐어! 뭘 또 그런거 가지구 사과를 혀!",
+         "backG":"",
+         "charimg":"주모",
+         "sound":"회상-흑백 필터"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"그때 니 얼굴이 얼마나 죽상이었는지 아냐?",
+         "backG":"",
+         "charimg":"",
+         "sound":"회상-흑백 필터"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"내는 뭔 송장이 뛰쳐나간줄 알았다니까!",
+         "backG":"",
+         "charimg":"",
+         "sound":"회상-흑백 필터"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"그냥 그러지말구 좀 쉬다와라 응?",
+         "backG":"",
+         "charimg":"",
+         "sound":"회상-흑백 필터"
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"아무리 그래두…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":"회상-흑백 필터"
+      },
+      {
+         "chapter":"",
+         "Name":"주모",
+         "sentence":"",
+         "Dialogue_think":"아휴 걱정두! 먹을 건 여 오면 넉넉히 챙겨줄테니까 걱정일랑 말고 쉬다와!",
+         "backG":"",
+         "charimg":"주모",
+         "sound":"회상-흑백 필터"
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"그러고보니 그랬었지…",
+         "backG":"준영 집 내부",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 곤히 주무시는 어머니를 멍하니 바라보다가 무언가 결심한듯 힘차게 일어났다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"읏쌰-",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"밀린 집안일이라두 좀 해야지 나 원..",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아이고 참… 해가 중천이네",
+         "backG":"준영집 마당",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"힘들 때일 수록 내가 정신차려야되는 건디",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"내가…",
+         "backG":"",
+         "charimg":"x",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"결혼 적령기도 채 되지 않은 준영에게 아픈 부모를 봉양하는건 말처럼 쉬운 일이 아니었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"가끔 버티기 힘든 순간들이 찾아오면 준영은 이웃집 최씨네 아들이나 박씨네 아들로 태어나 이리저리 놀러다니는 상상을 했다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"상상 속 준영은 더이상 애비없는 불쌍한 아이가 아니었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 대궐같은 집에서 어버지와 함께 자고 싶을 땐 자고, 놀고 싶을 땐 놀았다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"노는게 지겨워지면 아버지와 저잣거리로 나들이를 나갔다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"양반이라도 된 듯이 거들먹거리며 저잣거리를 느긋하게 거닐다가, 갖고 싶은 것이 있으면 사고, 먹고 싶은 것이 있으면 먹었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"집으로 돌아가는 길에는 주막에 들러 매일같이 자신을 구박하는 김씨 아저씨가 아버지에게 쩔쩔 매는 모습을 구경하고 마을 우물에서 목을 축였으며, 집에 돌아와서는 아버지와 마주보고 앉아 하인이 내오는 상을 받았다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영의 상상속에 어머니는 없었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"후…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"숨을 길게 내쉬고 준영은 두 손으로 제 볼을 힘차게 두번 쳤다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"일종의 기합이자 습관같은 행동이었다",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"으랏차차!!",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"잡생각아 가라!!!!",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"사내가 칼을 뽑았으면 무라도 베야지!",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 그렇게 외치고 빗자루를 들고 마당을 쓸기 시작했다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"마당쓰는 소리"
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"기합은 넣긴 했는디…으이 다 쓸면 뭐한담..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":"마당쓰는 소리"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아직 엄니 주무시니께 이부자리 정리는 무리겠고..",
+         "backG":"",
+         "charimg":"",
+         "sound":"마당쓰는 소리"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"음…",
+         "backG":"",
+         "charimg":"x",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"미음이라도 끓일까..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"그러고보니 장작 안 팬지 꽤 된 것 같은디..",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아 이따 주막에도 들러야겄다.",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"끄응..",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"생각보다 할 일이 많은 걸 깨닫자 준영은 조금 머리가 아파졌다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"으음….",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"해지기 전에 장작부터 패?",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아이고 근디 산 가 있는 동안 엄니께서 깨시면 어떡허냐..시장하실텐디 …",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"에이 모르겄다! 요새 엄니가 해지기 전에 일어나시는 걸 본적이 없는디 설마 일어나시겄어?",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"후딱 다녀오면 되겄지. 그려..후딱 다녀오는 거여.",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"일단 지게랑 지게막대기는 여기에 있고..",
+         "backG":"부엌",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"도끼가…음",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"도끼가 어딨더라…?",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"~탐색모드~",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"자 이제 도끼도 챙겼고..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"음 얼추 된 것 같은디?",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 지게를 지고 부엌 밖으로 나왔다.",
+         "Dialogue_think":"",
+         "backG":"마당",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"엄니 다녀오겄슈~",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":"화면진동?-목소리 우렁참 표현"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"……",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"방안에서는 인기척이 느껴지지 않았다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"이정도면 계속 주무시겄지?",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그렇게 중얼거리며 대문을 나서던 준영은 앞집 아주머니와 마주쳤다",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"얘 준영아 엄니 계시는감?",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"아 엄니유? 아까보니까 주무시는 것 같던디.",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"아 그려…? 이거 드리려구 했는디",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"아주머니는 나물을 준영에게 내밀었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"아이구 뭘 이런걸 다 주고 그러셔유~",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 어주머니의 말에 손사레를 치며 나물을 극구 사양했다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"여태까지 지들한테 해주신게 얼만디 이런 거 지는 미안혀서 못 받아유!",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"아이고오. 잔말말구 그냥 받어..!",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"아우~! 정주고 싶으시믄 어서 뜯어 왔는지나 일러주셔유",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"말은…! 느그 혼자 어떻게 찾는다구 그려어!!",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"고작 나물 하나 찾다가 길이라두 잃으면 어쩌려구…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"잔말 말고 이거 받어…!",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"아유~ 지가 나이가 몇인디 아직두 그른 얘기를 하셔유!",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"암튼 지는 이거 못 받어유!!",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그 이후로도 몇 분간 실랑이 벌어졌다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"아이구 아이구!",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"요놈 고집은…!",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"어휴 내가 졌다 졌어!!",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"아주머니는 곁눈질하며 한숨을 쉬셨다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"어차피 나무하러 뒷산가는 길이었지?",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"아..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 머쓱하게 웃었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"그…뒷산에 있는 거믄 지 혼자 가두 되는디..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"아휴~ 뒷산이 느이집 마당이여?",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"나가 다 알려준대두…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"가자 가~",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 마지못해 아주머니와 길을 나섰다",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"",
+         "backG":"산입구out",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"뒷산은 마을과는 조금 떨어져 있었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"준비는 됐을랑가 모르겄네?",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"어잇 어디루 가셔유?",
+         "backG":"산입구in",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"그쪽 말구! 이쪽이 더 빠르드라구",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"아주머니께서는 익숙치 않은 길로 준영을 안내했다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"글고보니 니는 나물 뜯어본 적 있남?",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"예? 어유..아니유",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 그렇게 말하곤 멋쩍게 웃어보였다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"아휴! 그러믄서 니 혼저 가겠다구 고집 부린겨?",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"요놈참….",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"…..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"준영아…",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"느이 엄니도 너 이러고 다니는 거 아시냐?",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"…..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 은근슬쩍 아주머니의 눈을 피했다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"아주머니는 한숨을 푹 쉬셨다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"자식 사서 고생하는 거 좋아하는 부모 읎다...",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"…..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"앞으로는 그냥 누가 뭘 주거나 그라면 넙죽 받어..",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"괜히 아까처럼 미안하다고, 안 받겠다고 끝까지 빡빡 우기지 말구..!",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"지가 언제 우겼다구 그래유…!",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"아주머니는 차라리 말을 말자는 표정으로 준영을 바라보고는 한숨을 한번 더 쉬셨다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"….그",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"요즘 아주머니네는 좀 어뗘유",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"아유 뭐 똑같지…",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"자식 새끼는 아직도 놈팽이처럼 놀러만 댕기고…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아이고 우리도 준영이 니같은 아덜래미 하나 있으면 좋을텐디…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"아휴 뭐 못하는 말이 읎으셔유…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그러면서도 준영이는 기분이 썩 나쁘지는 않은지 자기도 모르게 실실 웃고 있었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"고집 쏀 것만 빼믄 말이야!",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"아주머니!!!",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"아휴 내는 뭐 농도 못치나?",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"아이구 참…..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"그른디 오늘 같은 날 나물이 잘 보일렁가 모르겄슈..",
+         "backG":"",
+         "charimg":"",
+         "sound":"주변 거뭇거뭇(어둡다)"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"하늘도 어째 점점 깜깜해지는디",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"이러다 허탕만치고 가는 거 아니유?",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"어이고? 요놈봐라~?",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아까는 지 혼자서두 할 수 있다구 큰소리 떵떵치더니…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"맘에도 없는말 씨부렸구마잉?",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 머쓱한지 아무말도 않는다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"오늘 날이 아무리 안 좋아두 나한테는 못 당하지~",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"올해루 네 나이가 몇이지?",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"열하고도 셋이에유",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"내가 너 나이먹은 것보다 오래 나물을 뜯었다 요눔아!",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"나만 따라오면 되니께 쓸 데 없는 걱정일랑 하지말어..",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그렇게 가벼운 대화를 이어나가다 보니 어느덧 산 중턱에 다다랐다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은 화면"
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"자 이쯤에 나물이 많걸랑?",
+         "backG":"산중턱",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"여랑~여서 뜯으면 잘 될텨",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"아주머니께서는 그대로 쪼그려앉아 나물 찾는 요령을 자세히 알려주셨다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"아유..감사혀유",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"그래그래",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아이고고 내는 슬슬 내려가봐야겄다",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"아주머니는 힘겹게 일어나셔서 옷매무새를 다듬으셨다",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아이고 날씨 봐라 날씨…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 아주머니의 말의 무심코 고개를 들어 하늘을 올려다보았다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"하늘에는 먹구름이 잔뜩 끼어 금방이라도 비가 쏟아져내릴 것만 같았다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"준영이 니도 늦지 않게 내려와라~",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"네~ 들어가셔유~",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"앞집 아주머니",
+         "sentence":"",
+         "Dialogue_think":"그려~",
+         "backG":"",
+         "charimg":"앞집 아주머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"…..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":"부스럭부스럭"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"이왕 뜯는 거 많이 쟁여놔야지..",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 아주머니께서 알려주신대로 나물을 뜯었다",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"날씨가 영 별론데 슬슬 나무나해야겄다",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면/나무 찍는 소리"
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"휴 이 정도면 된 것 같은디",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"슬슬 내려가야겄네",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영이 하산하는 길은 순탄하지만은 않았다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"평소같았으면 성큼성큼 지나왔을 거리였다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그러나 준영의 예상보다 하늘은 훨씬 빠르게 어두워지고 있었고 누군가 일부러 긴장감을 조성하듯, 범상치 않은 소리가 났다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"들짐승의 소리는 아니었다. 그렇다고 나뭇잎 소리일 뿐이라고 넘겨짚기에는 다른 소리도 섞여들렸다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"무언가…떨어지는 소리같았다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그렇지만 무엇이? 왜? 준영은 계속 그 소리를 주시하며 비탈길을 내려오는 것이었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"…..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"투둑툭 툭 바스락바스락",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"정체불명의 소리는 준영이 비탈길을 한발한발 내딛을 때마다 점점 더 크게 들려왔다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"허…이것참..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"슬슬 입구가 나와야하는데…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아 입구ㄷ..",
+         "backG":"산입구in",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"입구사이로 무언가가 내리고 있었다",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 그제야 소리의 정체를 깨달았다",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"파바박 팍",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"우박이었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"하늘에서는 주먹만한 우박이 내리고 있었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"우박…!",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"최근에 우박이 많이 내리긴 했지마는…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 저런 크기의 우박을 본 적도 없거니와 들은 적도 없었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"저게 말이 되는 크기인가.",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"허…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"저렇게 큰 얼음이 하늘에서 떨어지는데 지금까지 알아채지 못한 자신이 한심하다는 생각이 들었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"풀썩",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"주저앉는 소리"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 뒷걸음질치다 그만 풀썩 주저앉고 말았다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"계속 불안불안하다고 생각은 했는디.. 이런 일이 생길 줄은..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"머리가 지끈거렸다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"풍비박산이 난 집, 아예 못 쓰게 된 작물들에 우박을 맞고 다친 사람들까지…",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"엉망이 된 마을의 모습이 절로 그려졌다",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"후…정신차리자 정신차려",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"쓸데없는 걱정일 것이다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"우박이 아무리 주먹만하다고 한들 사람을 직접 해하진 않겄지..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"여태까지 그래왔으니…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 힘겹게 일어나 산입구쪽으로 향했다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"괜찮어..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"다 괜찮을거여",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아무일도 없을 껴",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"자기암시를 하듯 중얼거린다",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그런 준영을 비웃기라도 하듯 준영의 시야에는 검은 형체의 무언가가 들어왔다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"순간 무서운 생각이 들었다",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"사람이면 어떡하지…..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"설마….",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아닐 거여..아니겄지..",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"두근두근두근두근",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"심장소리 두근두근"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"심장이 미친 듯이 뛰었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"목구멍까지 올라오는 심장소리에 몸이 덜덜 떨리는 게 느껴졌다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 애써 부정하며 검은 형체에게 다가갔다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그러나 애석하게도 가까이 가면 갈수록 그것이 사람일지도 모른다는 우려는 확신으로 변했다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"(팝업일러?)"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"헉…헉…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"주…죽은건가…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"미동이 없었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"머리카락은 산발이었고 몇번이나 굴렀는지 옷에는 흙이 잔뜩 묻어 지저분했다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 떨리는 마음을 뒤로하고 쪼그려 앉아 맥을 짚어보았다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"……..",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"미세한 떨림조차 느껴지지 않았다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"쓰러져 있던 사람은 죽었다. 그것만은 확실했다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"……..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"죽었구나…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 엎어져있던 시체를 조심스럽게 돌아눕혔다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"!!!!",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":"화면 진동"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"순간 뇌가 마비되는 것만 같았다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"엎어져있던 시체는… 아까까지만 해도 자신과 동행했던 앞집 아주머니였다",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"ㅇ….아….",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아주머니….",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"아주머니의 얼굴은 피 범벅이었다. 앞은 물론이거니와 머리뒤에도 맞은 흔적이 보였다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그제야 근처에 떨어진 우박이 눈에 띄었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"(팝업일러?)"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"왜 이제야 알아차렸나 싶을정도로 당황스러웠다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"우박이 아무리 주먹만하다고 한들 사람을 직접 해하진 않겄지..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":"회상-흑백"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"여태까지 그래왔으니…",
+         "backG":"",
+         "charimg":"",
+         "sound":"회상-흑백"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"자신의 안일함이 어이가 없었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"직접 해하지 않긴 무슨…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"여태까지 그래왔다고 해서 지금 그렇지 않으리라는 보장은 없었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"어째서 알지 못했을까…",
+         "backG":"",
+         "charimg":"x",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"아니, 정말 모른 걸까…?",
+         "backG":"",
+         "charimg":"x",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"나는 정말로 사람이 맞아 죽지 않을 거라고 생각했던 걸까?",
+         "backG":"",
+         "charimg":"x",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"헛웃음만 나왔다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 근처 나무에 등을 기댔다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"온몸에 힘이 풀려 그대로 미끌어지듯 땅바닥에 주저앉았다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"…",
+         "backG":"",
+         "charimg":"x",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그렇게 한참을 멍하니 사체를 바라보며 앉아있었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"….",
+         "backG":"",
+         "charimg":"x",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"…………….",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"………………………..",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"피범벅이 된 아주머니의 얼굴에 자꾸만 어머니의 얼굴이 겹쳐보였다",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"무서웠다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"죽음이 이렇게까지 직접적으로 다가온 적은 없었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"여태 무슨 생각을 한거여…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"잠시라도 어머니께서 얼른 돌아가셔서 팔자 피고 싶다는 철없는 생각을 했던 자신이 너무나도 혐오스러웠다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"내가 엄니 없이 어케 살어..",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"내는 엄니 없이는 아무것도 아닌디…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"엄니 없이는....",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그냥 애미애비없는 고아 새끼일 뿐이잖아.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면/강조연출?-글자슬로우?"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"어머니가 돌아가시면 자신은 다시 한 번 불쌍한 아이가 되는 것이었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"애비는 죽고 애미는 병든 힘든 상황에서도 불평불만 안하고 씩씩하게 사는 효자 성준영이 아니라",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"애미애비 다 죽고 거두어줄 사람 없어, 다 쓰러져가는 집에 혼자사는 불쌍한 아이가 되는 것이다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그런 비참한 신세가 되는 건 참을 수 없었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"………",
+         "backG":"",
+         "charimg":"x",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"엄니가 돌아가시긴 왜 돌아가셔",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"돌아가실리가 없지",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"돌아가셔선 안돼",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"절대로 돌아가셔선 안돼",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"우리 엄니 오래오래 나랑 같이 살아야지",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 그렇게 속으로 되뇌이며 일어났다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그러고는 내려놓았던 지게를 다시 지고, 산입구와 하늘에서 떨어지는 우박을 번갈아가며 째려보았다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"우박떨어지는 소리와 준영의 심장 소리만이 선명하게 들렸다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"머리를 보호할 만한 걸 찾아야겠어",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"~파밍모드~",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"~미니게임~",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"엄니!! 엄니!!!",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"마을은 장독이라면 장독, 작물이라면 작물, 온통 난장판이 되어있었으나 우박을 피하면서 준영은 온통 어머니 생각뿐이었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그래서인지 준영은 집에 도착하자마자 지게를 내팽겨치고는 정신없이 방문을 열어젖혀 어머니를 찾는 것이었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"엄니!!!!",
+         "backG":"",
+         "charimg":"어머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"어머니",
+         "sentence":"",
+         "Dialogue_think":"응? 으응??",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"어머니는 준영의 외침을 듣고 잠에서 깨신 것처럼 보였다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"와..와 그려!",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"멀쩡히 앉아 계시는 어머니를 보자 눈물이 터져 나왔다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"온몸의 긴장이 풀리는 기분이었다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"다행이어유…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"참말로 다행이여..",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"어머니",
+         "sentence":"",
+         "Dialogue_think":"야가 와 이란댜….",
+         "backG":"",
+         "charimg":"어머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"어머니는 영문을 모르겠다는 표정이셨다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"먼일 있었냐?",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"성준영",
+         "sentence":"",
+         "Dialogue_think":"…",
+         "backG":"",
+         "charimg":"성준영",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 대답은 못하고 그저 울기만 하였다..",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"어머니",
+         "sentence":"",
+         "Dialogue_think":"…",
+         "backG":"",
+         "charimg":"어머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"어머니는 그런 준영을 가만히 지켜보시다 꼭 안아주셨다..",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"어머니",
+         "sentence":"",
+         "Dialogue_think":"먼 일이 있었는지는 몰라도 네 엄니 여 있으니까 괜찮다",
+         "backG":"",
+         "charimg":"어머니",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"",
+         "Dialogue_think":"괜찮어…",
+         "backG":"",
+         "charimg":"",
+         "sound":""
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"준영은 어머니의 품에 안겨 산에서 했던 다짐을 되뇌였다.",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"어머니와 평생 오래오래 함께 살리라",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"자신이 먼저 죽는 한이 있더라도 늘 어머니를 먼저 지켜드리리라",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      },
+      {
+         "chapter":"",
+         "Name":"",
+         "sentence":"그렇게 평생 어머니를 생각하다 간 효자 성준영으로 기억되리라",
+         "Dialogue_think":"",
+         "backG":"",
+         "charimg":"",
+         "sound":"검은화면"
+      }
+   ]
+}

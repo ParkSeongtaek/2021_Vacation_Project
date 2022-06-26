@@ -218,4 +218,6 @@
 80	어머니	1	조심은 밖에 나다니는 네가 더 조심해야지.	269
 10	성준영	1	농이 아니라 정말루 조심하셔요, 엄니..	270
 150	none	1	none	271
-999	none	0	MiniGame1Scene	prologue3
+999	none	0	NovelScene	prologue3
+
+

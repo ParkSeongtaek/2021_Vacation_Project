@@ -10,6 +10,8 @@ public class ItemClass
     public int num;
     public string tooltip;
     public string dialog;
+    public string NextNovel;
+
 
     public ItemClass()
     {
@@ -17,5 +19,6 @@ public class ItemClass
         num = 0;
         tooltip = "test tooltip";
         dialog = "test dialog";
+        NextNovel = "test farming NextNovel";
     }
 }

@@ -1,0 +1,22 @@
+{
+   "TransformList":[
+      {
+         "chapter":" ",
+         "Name":" ",
+         "sentence":"짹짹짹짹",
+         "Dialogue_think":" ",
+         "backG":" ",
+         "charimg":" ",
+         "sound":"검은화면/새소리"
+      },
+      {
+         "chapter":" ",
+         "Name":"성준영",
+         "sentence":" ",
+         "Dialogue_think":"으음…음….",
+         "backG":"준영 집 내부",
+         "charimg":"x",
+         "sound":" "
+      }
+   ]
+}

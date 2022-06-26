@@ -43,6 +43,8 @@ public class CraftOwnedItem : MonoBehaviour
             if (itemNum == farmingMgr.itemList[i].num)
             {
                 GameObject btn1 = Instantiate(prefab1, parentObj.transform);
+               // btn1.transform.localScale = new Vector3(0.2f, 0.2f, 1.0f);
+
                 btn1.GetComponent<RectTransform>().sizeDelta = new Vector2(150f, 150f);
                 craftInvenItemList.Add(btn1);
                 if (craftOwnedItemNum <= 10)

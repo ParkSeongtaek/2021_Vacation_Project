@@ -1,6 +1,8 @@
 {
-    "ownedItemList": [],
+    "ownedItemList": [
+        6
+    ],
     "usedItemList": [],
-    "nextNovel": "prologue2",
-    "nowScene": 2
+    "nextNovel": "prologue3",
+    "nowScene": 1
 }

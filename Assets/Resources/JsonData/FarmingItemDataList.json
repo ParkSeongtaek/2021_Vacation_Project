@@ -1,64 +1,143 @@
 {
-  "farmingItemList": [
-    {
-      "name": "나뭇가지 덤불",
-      "num": 1,
-      "tooltip": "나뭇가지 툴팁",
-      "dialog": "나뭇가지 대화",
-      "itemVec": {
-        "x": 0.0,
-        "y": 0.0
-      }
-    },
-    {
-      "name": "끈",
-      "num": 2,
-      "tooltip": "끈 툴팁",
-      "dialog": "끈 대화",
-      "itemVec": {
-        "x": 5.0,
-        "y": 0.0
-      }
-    },
-    {
-      "name": "나뭇잎 덤불",
-      "num": 3,
-      "tooltip": "나뭇잎 툴팁",
-      "dialog": "나뭇잎 대화",
-      "itemVec": {
-        "x": -5.0,
-        "y": 0.0
-      }
-    },
-    {
-      "name": "솥뚜껑",
-      "num": 4,
-      "tooltip": "솥뚜껑 툴팁",
-      "dialog": "솥뚜껑 대화",
-      "itemVec": {
-        "x": 5.0,
-        "y": 5.0
-      }
-    },
-    {
-      "name": "도끼",
-      "num": 5,
-      "tooltip": "도끼 툴팁",
-      "dialog": "도끼 대화",
-      "itemVec": {
-        "x": 30.0,
-        "y": 0.0
-      }
-    },
-    {
-      "name": "백정 칼",
-      "num": 6,
-      "tooltip": "백정 칼 툴팁",
-      "dialog": "백정 칼 대화",
-      "itemVec": {
-        "x": 30.0,
-        "y": -15.0
-      }
-    }
-  ]
+    "farmingItemList": [
+        {
+            "name": "나뭇가지 덤불",
+            "num": 1,
+            "tooltip": "나뭇가지 툴팁",
+            "dialog": "나뭇가지 대화",
+            "itemSize": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "itemRotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+
+            },
+            "itemVec": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "NextNovel": ""
+        },
+        {
+            "name": "끈",
+            "num": 2,
+            "tooltip": "끈 툴팁",
+            "dialog": "끈 대화",
+            "itemSize": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "itemRotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+
+            },
+
+            "itemVec": {
+                "x": 5.0,
+                "y": 0.0
+            },
+            "NextNovel": ""
+        },
+        {
+            "name": "나뭇잎 덤불",
+            "num": 3,
+            "tooltip": "나뭇잎 툴팁",
+            "dialog": "나뭇잎 대화",
+            "itemSize": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "itemRotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+
+            },
+
+            "itemVec": {
+                "x": -5.0,
+                "y": 0.0
+            },
+            "NextNovel": ""
+        },
+        {
+            "name": "솥뚜껑",
+            "num": 4,
+            "tooltip": "솥뚜껑 툴팁",
+            "dialog": "솥뚜껑 대화",
+            "itemSize": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+            },
+            "itemRotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+
+            },
+
+            "itemVec": {
+                "x": 5.0,
+                "y": 5.0
+            },
+            "NextNovel": ""
+        },
+        {
+            "name": "도끼",
+
+            "num": 5,
+            "tooltip": "도끼 툴팁",
+            "dialog": "도끼 대화",
+            "itemSize": {
+                "x": 0.4,
+                "y": 0.4,
+                "z": 1.0
+            },
+            "itemRotate": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 190.0
+
+            },
+
+            "itemVec": {
+                "x": 52.9,
+                "y": -15
+            },
+            "NextNovel": "prologue3\r"
+
+        },
+        {
+            "name": "백정 칼",
+            "num": 6,
+            "tooltip": "백정 칼 툴팁",
+            "dialog": "백정 칼 대화",
+            "itemSize": {
+                "x": 0.25,
+                "y": 0.25,
+                "z": 1.0
+            },
+            "itemRotate": {
+                "x": 180.0,
+                "y": 0.0,
+                "z": 146.0
+
+            },
+
+            "itemVec": {
+                "x": 19.0,
+                "y": -16.56
+            },
+            "NextNovel": "찐 prologue2"
+        }
+    ]
 }

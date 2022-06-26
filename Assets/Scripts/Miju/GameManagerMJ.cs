@@ -105,13 +105,18 @@ public class GameManagerMJ : MonoBehaviour
                 //미주님 여기 채워주세요
                 break;
             case 999: // 씬 이동
-                saveData.nextNovel = txtLine[4];
-                
-                SceneMoveMgr.instance.nextnovel = txtLine[4];
+                Debug.Log(txtLine[4] + "      " + (int)txtLine[4][0]);
+                if (txtLine[4] != "")
+                {
+                    saveData.nextNovel = txtLine[4];
+
+                    SceneMoveMgr.instance.nextnovel = txtLine[4];
+                }
                 Debug.Log(saveData.nextNovel);
                 Debug.Log(SceneMoveMgr.instance.nextnovel);
 
                 SceneName scene = (SceneName)Enum.Parse(typeof(SceneName), txtLine[3]);
+                nextIndex++;
                 SceneMoveMgr.instance.LoadScene(scene);
 
                 break;
